@@ -1,6 +1,6 @@
 ## Materiais
 
-Arquivos do tutorial Leitura autocadenciada usando IbexFarm (Disponível em <https://youtu.be/zvbfl3f7UsQ>). 
+Arquivos do tutorial Leitura autocadenciada usando IbexFarm (Disponível em <https://youtu.be/cntvetEVZ7Q>). 
 
 O experimento pode ser feito no seguinte link: https://spellout.net/ibexexps/mahayanag/autocadenciada/experiment.html
 
